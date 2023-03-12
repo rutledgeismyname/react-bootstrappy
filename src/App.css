@@ -1,0 +1,15 @@
+.container{
+  background: #004c54;
+}
+.header {
+  text-align: center;
+}
+.toast{
+  position: fixed;
+  left: 50%;
+  bottom: 0px;
+  transform: translate(-50%, -5%);
+  margin: 0 auto;
+  min-width: 350px;
+  text-align: center;
+}
